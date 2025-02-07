@@ -14,7 +14,7 @@ demo github website 2
 - https://github.com/dgilbert-quickstart/demoghwebsite2.git
 
 # github website url 
-- n/a
+- https://dgilbert-quickstart.github.io/demoghwebsite2/
 
 # future improvements 
 - add responsive navigation menu 
